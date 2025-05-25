@@ -4,7 +4,7 @@ const dataOrderSheetName = 'data'
 const logSheetName       = 'log'
 
 const botHandle      = '@sasyamall_bot'
-const botToken       = '7045135802:AAFHFnRIM_TY8mUoWG8Dx91R58l-anDoGps'
+const botToken       = 'bot_token'
 const appsScriptUrl  = 'https://script.google.com/macros/s/AKfycbyFw_nTJ67S1sROi7wH7GFSVB6THPTPLkdEMQAoqF4-kZT5dQHIW4gw9Kk-Nj_O824rew/exec'
 const telegramApiUrl = `https://api.telegram.org/bot${botToken}`
 
