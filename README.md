@@ -6,4 +6,4 @@
 2. tampilan google sheet
    ![succes Input](https://github.com/user-attachments/assets/524a396a-76f2-45aa-9bc1-6014839b8f9a)
 3. tampilan google apps script
-![copy kode](https://github.com/user-attachments/assets/81632c46-a466-434d-9ce5-6dc7db4d1e2c)
+<img width="675" alt="copy kode" src="https://github.com/user-attachments/assets/1522cb91-a6c5-4606-b317-a87f8d82df79" />
